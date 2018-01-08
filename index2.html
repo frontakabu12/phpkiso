@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" type="text/css" href="assets/css/bootsnipp2.css">
+	<title>お問い合わせ</title>
+</head>
+<body>
+	
+<form method="POST" action="check.php">	
+
+
+<div class="container">
+	<div class="row">
+			<h1>お問い合わせ情報入力</h1>
+	
+	<div class="row input-container">
+			<div class="col-xs-12">
+				<div class="styled-input">
+					<input type="text" name="nickname" required />
+					<label>ニックネーム</label> 
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<div class="styled-input">
+					<input type="text" name="email" required />
+					<label>メールアドレス</label> 
+				</div>
+			</div>
+			
+			<div class="col-xs-12">
+				<div class="styled-input">
+					<textarea name="content" required></textarea>
+					<label>お問い合わせ内容</label>
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<div class="btn-lrg submit-btn">送信</div>
+			</div>
+	</div>
+</div>
+
+</form>
+
+</body>
+</html>

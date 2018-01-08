@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900,700,600,500,300,200,100,800);
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+/*h1{
+    color: #9bf9b9;
+}*/
+
+/*.big-price span{
+    color: #333;
+    font-size:40px;
+}*/
+
+/*.btn-price{
+    background-color:#5db4c0;
+    color: #fff;
+    border-radius:50%; 
+    border:none;
+    padding:40px 20px; 
+    font-size: 13px;
+    font-weight: 600;
+    margin-top:20px;
+}*/
+
+h3{
+    color:#9bf9b9;
+}
+
+input#button-h {
+    float:right;
+}
+
+.t-gyo{
+float:left;
+margin-left:30px; 
+margin-right:10px;
+margin-bottom:20px;
+background-color:#999999;
+width:650px;
+}
+
+
+.prices-box{
+    margin:10px 0px;
+}
+
+.top-content{
+    background-color:#4d4d4d;
+    padding:3px;
+}
+
+.bottom-content{
+    background-color:#f6f6f6;
+    padding:30px;
+}
+
+#/*prices h3{
+    color:#FFF;*/
+}
+
+/*#prices .features li{
+    padding:10px;
+}*/
+
+/*#prices .btn.btn-default{
+    margin:20px 0px;
+}*/
+
+/*#prices .features-border li{
+    border-top:1px solid #c7c7c7;
+    padding: 10px 0px;
+}
+
+#prices .features-border li:last-child{
+    border-bottom:1px solid #c7c7c7;
+}*/
+
