@@ -37,8 +37,8 @@
   
 
 <!-- <p>
-copyright kanaando already reserved.
-著作権はKanaAndoが持っています。©️
+copyright karori already reserved.
+著作権はKaroriが持っています。©️
 </p> -->
 <br>
 
